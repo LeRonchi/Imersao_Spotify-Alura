@@ -1,3 +1,4 @@
 # Imersao_Spotify-Alura
+Construção do Menu e posicionamento do logo
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/LeRonchi/Imersao_Spotify-Alura)
+Construção e estilização do menu biblioteca e playlist
